@@ -1,6 +1,8 @@
 # Song-Diary
 Store songs/music that you listen to, so that you can look back on them when you are trying to find out songs that you've liked in the past.
 
+### Scripts
+
 1. Setting up the file system in current directory ( setup1.sh )
 
     command format : bash setup1.sh
