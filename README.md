@@ -19,9 +19,9 @@ Store songs/music that you listen to, so that you can look back on them when you
 6. Viewing selected fields ( viewselect.sh )
 
 	  command format : bash viewselect.sh
-7. Adding custom fields(bonus) ( addcustom.sh )
+7. Adding custom fields ( addcustom.sh )
 
 	  command format : bash addcustom.sh <fieldname>
-8. Deleting fields(bonus) ( removecustom.sh )
+8. Deleting fields ( removecustom.sh )
   
 	  command format : bash removecustom.sh <fieldname>
